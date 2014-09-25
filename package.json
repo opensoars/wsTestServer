@@ -1,0 +1,32 @@
+{
+  "name": "wsTestServer",
+
+  "description": "Web socket test chat application",
+
+  "version": "0.0.1",
+
+  "scripts": {
+    
+  },
+
+  "engines" : {
+    "node" : ">=0.8"
+  },
+
+  "dependencies": {
+    "ezlog": "*",
+    "ws": "*",
+    "express": "*"
+  },
+
+  "devDependencies": {
+    
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensoars/wsTestServer"
+  },
+
+  "readmeFilename": "README.md"
+}
