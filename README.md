@@ -6,7 +6,7 @@ Web socket test chat application
 ---
 
 ## Install
-Close source
+Clone source
 
 ## Use
 1. Type `node server.js`
